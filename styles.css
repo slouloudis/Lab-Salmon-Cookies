@@ -1,0 +1,19 @@
+body {
+  font-family: monospace;
+}
+.hero {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  padding-bottom: 30px;
+}
+
+th, td {
+  border: 1px solid black;
+  font-size: 40px;
+  padding: 8px;
+}
+
+.woodtable{
+  margin-left: 180px;
+}
